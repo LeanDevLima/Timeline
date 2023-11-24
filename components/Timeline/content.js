@@ -1,65 +1,69 @@
 const steps = [
     {
-      title: "ACHIEVEMENTS ROADMAP",
+      title: "01/01/2022",
       description:
-        "First off, thank you for being a part of the community. We are excited to se how much organic growth and engagement the community here is experiencing. Here are some community stats and updates:",
+        "Contrato Iniciado",
       content: [
         {
-          title: "COMMUNITY GOALS:",
+          title: "Inicio:",
           subtitles: [
-            "Discord Members: 20,000+",
-            "Twitter Followers: 20,000+",
-            "10 new Moderators Hired Full Time",
-            "3,000 WL Raffle Signups",
-          ],
-        },
-        {
-          title: "PROJECTED GROWTH:",
-          subtitles: [
-            "2,519.8% Q3 of 2022",
-            "2,000 Weekly Communicators",
-            "17.10% new weekly member retention",
-            "10,500+ Twitter followers (zero ads)",
+            "Contrato de prestação de serviços começou",
           ],
         },
       ],
     },
     {
-      title: "CURRENT EVENTS",
+      title: "15/02/2022",
       description:
-        "We're excited announce successful strategic partnerships and influencers we've onboarded:",
+        "Revisão e Aprovação",
       content: [
         {
-          title: "INFLUENCER NEWS & PARTNERS:",
+          title: "Inicio:",
           subtitles: [
-            "FLWR Partnership Launchpad",
-            "HolyVerse advisory",
-            "Skullbots advisory",
-            "Sol Flowers advisory",
-            "Cyber Pharmacy advisory",
-            "Shadowy Super Coder advisory",
+            "Revisão do contrato e aprovação final",
           ],
         },
       ],
     },
     {
-      title: "FUTURE UPDATES",
+      title: "20/03/2022",
       description:
-        "As we continue to grow, our goal is to keep you guys updated with all relevant details and up coming roadmap achievements:",
+        "Contrato Iniciado",
       content: [
         {
-          title: "MINT UPDATES:",
+          title: "Inicio:",
           subtitles: [
-            "Whitelist Raffles begin early June",
-            "Founder speaks at major AMA and Twitter spaces with partners",
-            "Mint date is TBD. All the technology is ready.",
-            "New strategic promotion announcement",
-            "A tier influencer partnership campaigns deployed",
-            "Game theory rules & deflationary mechanics revealed to the public",
+            "Contrato de prestação de serviços começou",
           ],
         },
       ],
     },
+    {
+      title: "05/04/2022",
+      description:
+        "Contrato Iniciado",
+      content: [
+        {
+          title: "Assinatura Final:",
+          subtitles: [
+            "Contrato finalmente assinado por ambas as partes",
+          ],
+        },
+      ],
+    },
+    {
+      title: "10/05/2022",
+      description:
+        "Execução do Contrato",
+      content: [
+        {
+          title: "Inicio:",
+          subtitles: [
+            "Início dos serviços conforme o contrato",
+          ],
+        },
+      ],
+    }
   ];
   
   export default steps;
